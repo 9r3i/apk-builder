@@ -32,9 +32,11 @@ $ ai install ext.apk
 $ ai apk extract <path/to/file.apk>
 $ ai apk build <path/to/directory>
 $ ai apk sign <path/to/file.apk>
+```
 
-# or using config file
+- Or using config file
 
+```
 $ ai apk prepare <path/to/directory>
 $ ai apk execute
 ```
