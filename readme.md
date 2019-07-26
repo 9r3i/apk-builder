@@ -18,7 +18,11 @@
 
 # Installation
 - For AI users, simply use command:
---- ```$ ai pkg addrepository 9r3i/apkbuilder```
---- ```$ ai install ext.apk```
+
+```
+$ ai pkg addrepository 9r3i/apkbuilder
+$ ai install ext.apk
+
+```
 
 
