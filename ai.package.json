@@ -1,0 +1,47 @@
+{
+  "apkbuilder":{
+    "name":"apkbuilder",
+    "version":"1.0.3.113",
+    "type":"lib",
+    "contains":[
+      "apkbuilder/apkBuilder.raw",
+      "apkBuilder.ai"
+    ],
+    "raw_version":"1.1.3",
+    "authors":[
+      "Abu Ayyub"
+    ]
+  },
+  "apktools":{
+    "name":"apktools",
+    "version":"2.3.4",
+    "type":"lib",
+    "contains":[
+      "apktools/9r3i.pk8",
+      "apktools/9r3i.x509.pem",
+      "apktools/apktool.jar",
+      "apktools/signapk.jar",
+      "apktools/zipalign.exe"
+    ],
+    "authors":[
+      "Abu Ayyub"
+    ]
+  },
+  "ext.apk":{
+    "name":"apk",
+    "version":"1.2.0",
+    "type":"ext",
+    "contains":[
+      "apk.ai"
+    ],
+    "requires":[
+      "apkbuilder",
+      "apktools"
+    ],
+    "authors":[
+      "Abu Ayyub"
+    ]
+  }
+}
+
+
