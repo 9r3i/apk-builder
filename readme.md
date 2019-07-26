@@ -22,7 +22,23 @@
 ```
 $ ai pkg addrepository 9r3i/apkbuilder
 $ ai install ext.apk
+```
+
+
+# Build an app
+- For AI users, sample commands:
 
 ```
+$ ai apk extract <path/to/file.apk>
+$ ai apk build <path/to/directory>
+$ ai apk sign <path/to/file.apk>
+
+# or using config file
+
+$ ai apk prepare <path/to/directory>
+$ ai apk execute
+```
+
+- Use ```$ ai apk help``` for more detail
 
 
