@@ -20,7 +20,7 @@
 - For AI users, simply use command:
 
 ```
-$ ai pkg addrepository 9r3i/apkbuilder
+$ ai pkg addrepository 9r3i/apk-builder
 $ ai install ext.apk
 ```
 
