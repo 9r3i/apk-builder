@@ -14,6 +14,7 @@
 - And the other one is apktools.
 - The jar file, "apktool.jar", I get from here: https://github.com/iBotPeaches/Apktool
 - Visit the apktool repository release to get new updates.
+- This package requires JAVA, visit the official website for downloading the stuff: https://www.java.com/en/download/
 
 
 # Installation
