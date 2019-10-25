@@ -1,10 +1,10 @@
 
 [![Author](https://img.shields.io/badge/author-9r3i-lightgrey.svg)](https://github.com/9r3i)
-[![License](https://img.shields.io/github/license/9r3i/apkbuilder.svg)](https://github.com/9r3i/apkbuilder/blob/master/license.txt)
-[![Forks](https://img.shields.io/github/forks/9r3i/apkbuilder.svg)](https://github.com/9r3i/apkbuilder/network)
-[![Stars](https://img.shields.io/github/stars/9r3i/apkbuilder.svg)](https://github.com/9r3i/apkbuilder/stargazers)
-[![Issues](https://img.shields.io/github/issues/9r3i/apkbuilder.svg)](https://github.com/9r3i/apkbuilder/issues)
-[![Release](https://img.shields.io/github/release/9r3i/apkbuilder.svg)](https://github.com/9r3i/apkbuilder/releases)
+[![License](https://img.shields.io/github/license/9r3i/apk-builder.svg)](https://github.com/9r3i/apk-builder/blob/master/license.txt)
+[![Forks](https://img.shields.io/github/forks/9r3i/apk-builder.svg)](https://github.com/9r3i/apk-builder/network)
+[![Stars](https://img.shields.io/github/stars/9r3i/apk-builder.svg)](https://github.com/9r3i/apk-builder/stargazers)
+[![Issues](https://img.shields.io/github/issues/9r3i/apk-builder.svg)](https://github.com/9r3i/apk-builder/issues)
+[![Release](https://img.shields.io/github/release/9r3i/apk-builder.svg)](https://github.com/9r3i/apk-builder/releases)
 
 
 # APK Builder
